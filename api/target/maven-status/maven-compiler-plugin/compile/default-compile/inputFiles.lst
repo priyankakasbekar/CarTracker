@@ -1,0 +1,10 @@
+/Users/raghavs/JavaProjects/spring-rest/src/main/java/LearningSpring/spring_rest/exceptions/BadRequestException.java
+/Users/raghavs/JavaProjects/spring-rest/src/main/java/LearningSpring/spring_rest/controller/VehicleController.java
+/Users/raghavs/JavaProjects/spring-rest/src/main/java/LearningSpring/spring_rest/exceptions/VehicleNotFoundException.java
+/Users/raghavs/JavaProjects/spring-rest/src/main/java/LearningSpring/spring_rest/repository/VehicleRepository.java
+/Users/raghavs/JavaProjects/spring-rest/src/main/java/LearningSpring/spring_rest/entities/Readings.java
+/Users/raghavs/JavaProjects/spring-rest/src/main/java/LearningSpring/spring_rest/service/VehicleService.java
+/Users/raghavs/JavaProjects/spring-rest/src/main/java/LearningSpring/spring_rest/service/VehicleServiceImpl.java
+/Users/raghavs/JavaProjects/spring-rest/src/main/java/LearningSpring/spring_rest/entities/TireReadings.java
+/Users/raghavs/JavaProjects/spring-rest/src/main/java/LearningSpring/spring_rest/entities/Vehicle.java
+/Users/raghavs/JavaProjects/spring-rest/src/main/java/LearningSpring/spring_rest/Application.java
